@@ -23,6 +23,7 @@
   depth: 
   frequency: "Daily"
   operation: 
+  size: "132Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/eNATL60"
   path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1d/eNATL60" 
   path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1d/eNATL60"
@@ -39,6 +40,7 @@
   depth: "Surface"
   frequency: "Daily"
   operation: 
+  size: "131Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/eNATL60"
   path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1d/eNATL60" 
   path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1d/eNATL60"
