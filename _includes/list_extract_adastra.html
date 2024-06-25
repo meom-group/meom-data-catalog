@@ -1,0 +1,32 @@
+{% for c in site.data.extractions %}
+
+{% if c.path_adastra %} 
+<div class="row justify-content-center">
+        <div class="card">
+            <div class="card-body">
+                <h2 class="card-title h3">{{ c.name }}</h2>
+                {{ c.description }}
+                <ul>
+                    <li>Path on Adastra is : <code class="language-plaintext highlighter-rouge">{{ c.path_adastra }}</code> </li>
+                    {% endif %}
+                    {% if c.path_cal1 %} 
+                    <li>Also available on cal1 at : <code class="language-plaintext highlighter-rouge">{{ c.path_cal1 }}</code> </li>
+                    {% endif %}
+                    {% if c.path_gricad %} 
+                    <li>Also available on GRICAD at : <code class="language-plaintext highlighter-rouge">{{ c.path_gricad }}</code> </li>
+                    {% endif %} 
+                    {% if c.path_jeanzay %} 
+                    <li>Avlso aailable on Jean-Zay at : <code class="language-plaintext highlighter-rouge">{{ c.path_jeanzay }}</code> </li>
+                    {% endif %}
+                    {% if c.path_irene %} 
+                    <li>Avlso aailable on Irene at : <code class="language-plaintext highlighter-rouge">{{ c.path_irene }}</code> </li>
+                    {% endif %}
+                    {% if c.url_opendap %} 
+                    <li>Download directly on <a href="{{c.url_opendap }}">opendap</a> </li>
+                    {% endif %}               
+                </ul>
+            </div>
+        </div>
+</div>
+{% endif %}
+{% endfor %}
