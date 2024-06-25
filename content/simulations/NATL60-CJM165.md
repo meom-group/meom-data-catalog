@@ -1,5 +1,5 @@
 ---
-section_id: Simulations
+section: Simulations
 nav_order: 3
 title: NATL60-CJM165
 ---
