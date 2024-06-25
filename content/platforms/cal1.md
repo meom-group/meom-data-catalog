@@ -1,5 +1,5 @@
 ---
-section_id: Platforms
+section: Platforms
 nav_order: 2
 title: Cal1
 ---
