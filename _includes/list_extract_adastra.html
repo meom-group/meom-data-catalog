@@ -5,7 +5,7 @@
         <div class="card">
             <div class="card-body">
                 <h2 class="card-title h3">{{ c.name }}</h2>
-                The dataset is composed of an extraction of 
+                The dataset is composed of an extraction of :
                 <ul>
                     <li> Configuration : <code class="language-plaintext highlighter-rouge">{{ c.configuration }}</code> </li>
                     <li> Simulation : <code class="language-plaintext highlighter-rouge">{{ c.simulation }}</code> </li>
@@ -18,8 +18,10 @@
                     <li> Frequency: <code class="language-plaintext highlighter-rouge">{{ c.frequency }}</code> </li>
                     {% if c.operation %} 
                     <li> Extra operation: <code class="language-plaintext highlighter-rouge">{{ c.operation }}</code> </li>
-                    {% endif %}          
+                    {% endif %} 
+                    <li> Size: <code class="language-plaintext highlighter-rouge">{{ c.size }}</code> </li>
                 </ul>
+                You can find the dataset :
                 <ul>
                     <li>Path on Adastra is : <code class="language-plaintext highlighter-rouge">{{ c.path_adastra }}</code> </li>
                     {% if c.path_cal1 %} 
