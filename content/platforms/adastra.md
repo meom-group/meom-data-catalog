@@ -1,6 +1,6 @@
 ---
 section: Platforms
-nav_order: 5
+nav_order: 10
 title: Adastra
 ---
 

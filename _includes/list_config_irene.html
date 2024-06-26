@@ -1,15 +1,15 @@
 {% for c in site.data.configurations %}
 
-{% if c.path_adastra %} 
+{% if c.path_irene %} 
 <div class="row justify-content-center">
         <div class="card">
             <div class="card-body">
                 <h2 class="card-title h3">{{ c.name }}</h2>
                 {{ c.description }}
                 <ul>
-                    <li>Path on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/adastra.html">Adastra</a> is : <code class="language-plaintext highlighter-rouge">{{ c.path_adastra }}</code> </li>
-                    {% if c.path_cal1 %} 
-                    <li>Also available on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/cal1.html">cal1</a> at : <code class="language-plaintext highlighter-rouge">{{ c.path_cal1 }}</code> </li>
+                    <li>Path on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/irene.html">Irene</a> is : <code class="language-plaintext highlighter-rouge">{{ c.path_irene }}</code> </li>
+                    {% if c.path_adastra %} 
+                    <li>Also available on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/adastra.html">Adastra</a> at : <code class="language-plaintext highlighter-rouge">{{ c.path_adastra }}</code> </li>
                     {% endif %}
                     {% if c.path_gricad %} 
                     <li>Also available on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/gricad.html">GRICAD</a> at : <code class="language-plaintext highlighter-rouge">{{ c.path_gricad }}</code> </li>
@@ -17,8 +17,8 @@
                     {% if c.path_jeanzay %} 
                     <li>Also available on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/jeanzay.html">Jean-Zay</a> at : <code class="language-plaintext highlighter-rouge">{{ c.path_jeanzay }}</code> </li>
                     {% endif %}
-                    {% if c.path_irene %} 
-                    <li>Also available on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/irene.html">Irene</a> at : <code class="language-plaintext highlighter-rouge">{{ c.path_irene }}</code> </li>
+                    {% if c.path_cal1 %} 
+                    <li>Also available on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/cal1.html">cal1</a> at : <code class="language-plaintext highlighter-rouge">{{ c.path_cal1 }}</code> </li>
                     {% endif %}
                     {% if c.url_opendap %} 
                     <li><a href="{{c.url_opendap }}">Download</a> directly on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/opendap.html">opendap</a> </li>
