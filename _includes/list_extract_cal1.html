@@ -7,8 +7,8 @@
                 <h2 class="card-title h3">{{ c.name }}</h2>
                 The dataset is composed of an extraction of :
                 <ul>
-                    <li> Configuration : <code class="language-plaintext highlighter-rouge">{{ c.configuration }}</code> </li>
-                    <li> Simulation : <code class="language-plaintext highlighter-rouge">{{ c.simulation }}</code> </li>
+                    <li> Configuration : <a href="https://meom-group.github.io/meom-data-catalog/content/configurations.html#{{ c.configuration }}">{{ c.configuration }}</a> </li>
+                    <li> Simulation : <a href="https://meom-group.github.io/meom-data-catalog/content/simulations/{{ c.simulation }}.html">{{ c.simulation }}</a> </li>
                     <li> Region : <code class="language-plaintext highlighter-rouge">{{ c.region }}</code> </li>
                     <li> Variable(s):  <code class="language-plaintext highlighter-rouge">{{ c.variable }}</code> </li>
                     {% if c.depth %} 
@@ -23,7 +23,7 @@
                 </ul>
                 You can find the dataset :
                 <ul>
-                    <li>Path on Cal1 is : <code class="language-plaintext highlighter-rouge">{{ c.path_cal1 }}</code> </li>
+                    <li>on Cal1 is : <code class="language-plaintext highlighter-rouge">{{ c.path_cal1 }}</code> </li>
                     {% if c.path_adastra %} 
                     <li>Also available on cal1 at : <code class="language-plaintext highlighter-rouge">{{ c.path_adastra }}</code> </li>
                     {% endif %}
