@@ -25,11 +25,11 @@ keywords: "data, ocean, simulation"
 featured-image: "/images/eorca36.png"
 
 # author name, displayed in credits
-author: auraoupa
+author: Aurélie Albert
 # year or date published, displayed in sidebar
 publication_year: 2024
 # location of code, the full url to your github repository
-source-code: https://github.com/auraoupa/lesson-template
+source-code: https://github.com/meom-group/meom-data-catalog
 # content license (typically "cc by-sa"), displayed in sidebar
 content_license: "CC BY-SA"
 # URL to the content license
