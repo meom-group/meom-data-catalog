@@ -1,4 +1,5 @@
 - name: GULF60
+  region: "GULF"
   description: "An extraction of NATL60 grids for the GULF region "
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-I/NATL60GULF-I.tar"
   path_cal1: 
