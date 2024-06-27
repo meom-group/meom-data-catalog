@@ -49,19 +49,19 @@
   path_irene:
   url_opendap:
 
-- name: NATL60GULF-CJM165-Tdegrad3-1d
+- name: NATL60GULF-CJM165-S-1d
   configuration: "NATL60"
   simulation: "NATL60-CJM165"
   region: "GULF"
-  variable: "Temperature"
+  variable: "Salinity"
   period: "01/10/2012-30/09/2013"
-  depth: "300 levels
+  depth: "300 levels"
   frequency: "Daily"
-  operation: "Spatial degradation by a factor 3"
-  size: "62Gb"
+  operation: 
+  size: "99Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
   path_cal1: 
   path_gricad: 
   path_jeanzay:
   path_irene:
-  url_opendap: 
+  url_opendap:
