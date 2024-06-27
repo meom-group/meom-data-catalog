@@ -14,3 +14,20 @@
   path_jeanzay:
   path_irene:
   url_opendap:
+
+- name: NATL60GULF-CJM165-SST-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Temperature"
+  period: "01/10/2012-30/09/2013"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: 
+  size: "3.9Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
