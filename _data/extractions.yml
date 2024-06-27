@@ -1,3 +1,191 @@
+- name: NATL60GULF-CJM165-SSS-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Salinity"
+  period: "01/10/2012-30/09/2013"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: 
+  size: "3.8Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: NATL60GULF-CJM165-SST-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Temperature"
+  period: "01/10/2012-30/09/2013"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: 
+  size: "3.9Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: NATL60GULF-CJM165-Sdegrad3-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Salinity"
+  period: "01/10/2012-30/09/2013"
+  depth: "300 levels"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "62Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: NATL60GULF-CJM165-Tdegrad3-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Temperature"
+  period: "01/10/2012-30/09/2013"
+  depth: "300 levels
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "62Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:  
+  
+- name: NATL60GULF-CJM165-S-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Salinity"
+  period: "01/10/2012-30/09/2013"
+  depth: "300 levels"
+  frequency: "Daily"
+  operation: 
+  size: "99Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: NATL60GULF-CJM165-T-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Temperature"
+  period: "01/10/2012-30/09/2013"
+  depth: "300 levels
+  frequency: "Daily"
+  operation: 
+  size: "144Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:  
+  
+
+- name: NATL60GULF-CJM165-S1000degrad3-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Salinity"
+  period: "01/10/2012-30/09/2013"
+  depth: "Surface to 1000m"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "62Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: NATL60GULF-CJM165-T1000degrad3-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Temperature"
+  period: "01/10/2012-30/09/2013"
+  depth: "Surface to 1000m"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "62Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: NATL60GULF-CJM165-S1000-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Salinity"
+  period: "01/10/2012-30/09/2013"
+  depth: "Surface to 1000m"
+  frequency: "Daily"
+  operation: 
+  size: "66Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: NATL60GULF-CJM165-T1000-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Temperature"
+  period: "01/10/2012-30/09/2013"
+  depth: "Surface to 1000m"
+  frequency: "Daily"
+  operation: 
+  size: "82Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: NATL60GULF-CJM165-W1000-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULF"
+  variable: "Vertical Velocity"
+  period: "01/10/2012-30/09/2013"
+  depth: "Surface to 1000m"
+  frequency: "Daily"
+  operation: 
+  size: "03Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: NATL60GULF-CJM165-MLD-1d
   configuration: "NATL60"
   simulation: "NATL60-CJM165"
@@ -7,6 +195,7 @@
   depth: 
   frequency: "Daily"
   operation: 
+  size: "2.7Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULF"
   path_cal1: 
   path_gricad: 
