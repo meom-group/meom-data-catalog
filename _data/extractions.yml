@@ -48,7 +48,7 @@
   path_jeanzay:
   path_irene:
   url_opendap:
-
+  
 - name: NATL60GULF-CJM165-Tdegrad3-1d
   configuration: "NATL60"
   simulation: "NATL60-CJM165"
@@ -100,7 +100,6 @@
   path_irene:
   url_opendap:  
   
-
 - name: NATL60GULF-CJM165-S1000degrad3-1d
   configuration: "NATL60"
   simulation: "NATL60-CJM165"
