@@ -1,3 +1,20 @@
+- name: NATL60GULFSTREAM-CJM165-U-1d
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "GULFSTREAM"
+  variable: "Zonal Velocity"
+  period: "01/10/2012-30/09/2013"
+  depth: "All 300 levels"
+  frequency: "Daily"
+  operation: 
+  size: "162Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1d/GULFSTREAM"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: NATL60GULFSTREAM-CJM165-SSS-1d
   configuration: "NATL60"
   simulation: "NATL60-CJM165"
