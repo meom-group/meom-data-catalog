@@ -7,7 +7,7 @@
   depth: "60m"
   frequency: "Daily"
   operation: "density computed from temperature and salinity with cdfsig0"
-  size: "41Gb"
+  size: "162Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/eNATL60"
   path_cal1: 
   path_gricad:
@@ -24,7 +24,7 @@
   depth: "60m"
   frequency: "Daily"
   operation: "interpolated at the T vertical level"
-  size: "41Gb"
+  size: "162Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/eNATL60"
   path_cal1: 
   path_gricad:
