@@ -1,3 +1,37 @@
+- name: eNATL60-BLB002-sig60-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "eNATL"
+  variable: "Density"
+  period: "01/07/2009-30/06/2010"
+  depth: "60m"
+  frequency: "Daily"
+  operation: "density computed from temperature and salinity with cdfsig0"
+  size: "41Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/eNATL60"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60-BLB002-W60-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "eNATL"
+  variable: "Vertical Velocity"
+  period: "01/07/2009-30/06/2010"
+  depth: "60m"
+  frequency: "Daily"
+  operation: "interpolated at the T vertical level"
+  size: "41Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/eNATL60"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: eNATL60-BLB002-sig20-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
@@ -36,7 +70,7 @@
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
   region: "eNATL"
-  variable: "Density"
+  variable: "Salinity"
   period: "01/07/2009-30/09/2009"
   depth: "20m"
   frequency: "Daily"
@@ -55,7 +89,7 @@
   region: "eNATL"
   variable: "Vertical Velocity"
   period: "01/07/2009-30/09/2009"
-  depth: "200m"
+  depth: "20m"
   frequency: "Daily"
   operation: "interpolated at the T vertical level"
   size: "41Gb"
@@ -104,7 +138,7 @@
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
   region: "eNATL"
-  variable: "Density"
+  variable: "Salinity"
   period: "01/07/2009-30/06/2010"
   depth: "600m"
   frequency: "Daily"
