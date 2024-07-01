@@ -1,5 +1,5 @@
 ---
-section_id: Variables
+section: Variables
 nav_order: 12
 title: Density
 ---
