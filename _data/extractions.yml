@@ -1,3 +1,37 @@
+- name: eNATL60-BLB002-V0-10mmean-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "eNATL60"
+  variable: "Meridional Velocity"
+  period: "01/07/2009-30/06/2010"
+  depth: "0-10m"
+  frequency: "Hourly"
+  operation: "Vertical average between surface and 10m depth"
+  size: "1.5Tb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/eNATL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60-BLB002-U0-10mmean-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "eNATL60"
+  variable: "Zonal Velocity"
+  period: "01/07/2009-30/06/2010"
+  depth: "0-10m"
+  frequency: "Hourly"
+  operation: "Vertical average between surface and 10m depth"
+  size: "1.5Tb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/eNATL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: eNATL60GULF-BLB002-S0-1000mdegrad3-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
