@@ -1,3 +1,71 @@
+- name: eNATL60GULF-BLB002-S0-1000mdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "GULF"
+  variable: "Salinity"
+  period: "01/07/2009-30/06/2010"
+  depth: "Surface to 1000m"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: ""
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60GULF-BLB002-T0-1000mdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "GULF"
+  variable: "Temperature"
+  period: "01/07/2009-30/06/2010"
+  depth: "Surface to 1000m"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: ""
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60GULF-BLB002-Sdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "GULF"
+  variable: "Salinity"
+  period: "01/07/2009-30/06/2010"
+  depth: "All 300 levels"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: ""
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60GULF-BLB002-Tdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "GULF"
+  variable: "Temperature"
+  period: "01/07/2009-30/06/2010"
+  depth: "All 300 levels"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: ""
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: eNATL60GULF-BLB002-S-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
