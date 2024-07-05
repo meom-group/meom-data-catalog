@@ -1,4 +1,37 @@
-
+- name: eNATL60GULF-BLB002-S-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "GULF"
+  variable: "Salinity"
+  period: "01/07/2009-30/06/2010"
+  depth: "All 300 levels"
+  frequency: "Daily"
+  operation: ""
+  size: "131Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60GULF-BLB002-T-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "GULF"
+  variable: "Temperature"
+  period: "01/07/2009-30/06/2010"
+  depth: "All 300 levels"
+  frequency: "Daily"
+  operation: ""
+  size: "192Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: eNATL60-BLB002-sig20-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
