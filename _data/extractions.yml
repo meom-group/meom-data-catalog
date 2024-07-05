@@ -7,7 +7,7 @@
   depth: "Surface to 1000m"
   frequency: "Daily"
   operation: "Spatial degradation by a factor 3"
-  size: ""
+  size: "23Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
   path_cal1: 
   path_gricad:
@@ -24,7 +24,7 @@
   depth: "Surface to 1000m"
   frequency: "Daily"
   operation: "Spatial degradation by a factor 3"
-  size: ""
+  size: "23"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
   path_cal1: 
   path_gricad:
@@ -41,7 +41,7 @@
   depth: "All 300 levels"
   frequency: "Daily"
   operation: "Spatial degradation by a factor 3"
-  size: ""
+  size: "62Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
   path_cal1: 
   path_gricad:
@@ -58,7 +58,7 @@
   depth: "All 300 levels"
   frequency: "Daily"
   operation: "Spatial degradation by a factor 3"
-  size: ""
+  size: "62Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/GULF"
   path_cal1: 
   path_gricad:
