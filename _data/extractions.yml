@@ -1,7 +1,7 @@
 - name: eNATL60-BLB002-SSH-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
-  region: "eNATL60"
+  region: "eNATL"
   variable: "Sea Surface Height"
   period: "01/07/2009-30/06/2010"
   depth: "Surface"
@@ -18,7 +18,7 @@
 - name: eNATL60-BLB002-SSV-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
-  region: "eNATL60"
+  region: "eNATL"
   variable: "Meridional Velocity"
   period: "01/07/2009-30/06/2010"
   depth: "Surface"
@@ -35,7 +35,7 @@
 - name: eNATL60-BLB002-SSU-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
-  region: "eNATL60"
+  region: "eNATL"
   variable: "Zonal Velocity"
   period: "01/07/2009-30/06/2010"
   depth: "Surface"
@@ -52,7 +52,7 @@
 - name: eNATL60-BLB002-MLD-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
-  region: "eNATL60"
+  region: "eNATL"
   variable: "Mixed Layer Depth"
   period: "01/07/2009-30/06/2010"
   depth: "Surface"
@@ -69,7 +69,7 @@
 - name: eNATL60-BLB002-SST-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
-  region: "eNATL60"
+  region: "eNATL"
   variable: "Temperature"
   period: "01/07/2009-30/06/2010"
   depth: "Surface"
@@ -86,7 +86,7 @@
 - name: eNATL60-BLB002-V0-10mmean-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
-  region: "eNATL60"
+  region: "eNATL"
   variable: "Meridional Velocity"
   period: "01/07/2009-30/06/2010"
   depth: "0-10m"
@@ -103,7 +103,7 @@
 - name: eNATL60-BLB002-U0-10mmean-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
-  region: "eNATL60"
+  region: "eNATL"
   variable: "Zonal Velocity"
   period: "01/07/2009-30/06/2010"
   depth: "0-10m"
