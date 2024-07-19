@@ -1,6 +1,6 @@
 ---
-section_id: Variables
-nav_order: 8
+section: Variables
+nav_order: 13
 title: Mixed Layer Depth
 ---
 
