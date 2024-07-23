@@ -94,8 +94,8 @@
   operation: ""
   size: "588Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -111,8 +111,8 @@
   operation: ""
   size: "591Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -128,8 +128,8 @@
   operation: ""
   size: "544Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -145,8 +145,8 @@
   operation: ""
   size: "421Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -162,8 +162,8 @@
   operation: ""
   size: "338Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/SICIL"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -230,8 +230,8 @@
   operation: "Spatial degradation by a factor 3"
   size: "1.5Tb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/GULF"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -247,8 +247,8 @@
   operation: "Spatial degradation by a factor 3"
   size: "1.5Tb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/GULF"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -264,8 +264,8 @@
   operation: "Spatial degradation by a factor 3"
   size: "5.2Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/GULF"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -281,8 +281,8 @@
   operation: "Spatial degradation by a factor 3"
   size: "5.2Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/GULF"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -298,8 +298,8 @@
   operation: "Spatial degradation by a factor 3"
   size: "5.2Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/GULF"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -315,8 +315,8 @@
   operation: "Spatial degradation by a factor 3"
   size: "5.2Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/GULF"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -332,8 +332,8 @@
   operation: "Spatial degradation by a factor 3"
   size: "5.2Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/GULF"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/GULF-degrad3"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -553,8 +553,8 @@
   operation: ""
   size: "598Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/eNATL"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -570,8 +570,8 @@
   operation: ""
   size: "632Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/eNATL"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
   path_jeanzay:
   path_irene:
   url_opendap:
@@ -587,8 +587,8 @@
   operation: ""
   size: "630Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/eNATL"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
   path_jeanzay:
   path_irene:
   url_opendap:
