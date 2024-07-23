@@ -1,3 +1,122 @@
+- name: eNATL60SICIL-BLB002-flx-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "SICIL"
+  variable: "Air-Sea Flux"
+  period: "01/07-30/10/2009, 01/01-31/03/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "24Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60SICIL-BLB002-U-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "SICIL"
+  variable: "Zonal Velocity"
+  period: "01/07-30/10/2009, 01/01-31/03/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "588Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60SICIL-BLB002-V-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "SICIL"
+  variable: "Meridional Velocity"
+  period: "01/07-30/10/2009, 01/01-31/03/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "591Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60SICIL-BLB002-W-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "SICIL"
+  variable: "Vertical Velocity"
+  period: "01/07-30/10/2009, 01/01-31/03/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "544Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60SICIL-BLB002-T-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "SICIL"
+  variable: "Temperature"
+  period: "01/07-30/10/2009, 01/01-31/03/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "421Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60SICIL-BLB002-S-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "SICIL"
+  variable: "Salinity"
+  period: "01/07-30/10/2009, 01/01-31/03/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "338Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60SICIL-BLB002-SSH-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "SICIL"
+  variable: "Sea Surface Height"
+  period: "01/07-30/10/2009, 01/01-31/03/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "4.9Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/SICIL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
 - name: eNATL60GULF-BLB002-Sdegrad3-0-1000m-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
