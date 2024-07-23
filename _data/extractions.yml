@@ -1,3 +1,88 @@
+- name: eNATL60FARSHE-BLBT02-SSU-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "FARSHE"
+  variable: "Zonal Velocity"
+  period: "01/07-31/12/2009, 01/07-30/10/2010"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: ""
+  size: "1.5Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/FARSHE"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60FARSHE-BLBT02-SSV-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "FARSHE"
+  variable: "Meridional Velocity"
+  period: "01/07-31/12/2009, 01/07-30/10/2010"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: ""
+  size: "1.5Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/FARSHE"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60FARSHE-BLBT02-SSS-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "FARSHE"
+  variable: "Salinity"
+  period: "01/07-31/12/2009, 01/07-30/10/2010"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: ""
+  size: "0.9Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/FARSHE"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60FARSHE-BLBT02-SST-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "FARSHE"
+  variable: "Temperature"
+  period: "01/07-31/12/2009, 01/07-30/10/2010"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: ""
+  size: "0.9Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/FARSHE"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60FARSHE-BLBT02-flxT-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "FARSHE"
+  variable: "Air-Sea fluxes"
+  period: "01/07-31/12/2009, 01/07-30/10/2010"
+  depth: ""
+  frequency: "Daily"
+  operation: ""
+  size: "2Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/FARSHE"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
 - name: eNATL60-BLBT02-W600m-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLBT02"
