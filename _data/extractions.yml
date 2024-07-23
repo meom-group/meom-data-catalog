@@ -1,3 +1,20 @@
+- name: eNATL60-BLBT02-MLD-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "eNATL"
+  variable: "Mixed Layer Depth"
+  period: "01/07-30/10/2009, 01/01-31/03/2010"
+  depth: ""
+  frequency: "Daily"
+  operation: ""
+  size: "130Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/eNATL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: eNATL60TURK-BLB002-T0-163m-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
