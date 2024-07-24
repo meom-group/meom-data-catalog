@@ -1,3 +1,71 @@
+- name: eNATL60FARSHE-BLBT02-U0-3882m-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "FARSHE"
+  variable: "Zonal Velocity"
+  period: "01/07-30/09/2010"
+  depth: "Surface to 3882m"
+  frequency: "Daily"
+  operation: ""
+  size: "9.5Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/FARSHE"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60FARSHE-BLBT02-V0-3882m-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "FARSHE"
+  variable: "Meridional Velocity"
+  period: "01/07-30/09/2010"
+  depth: "Surface to 3882m"
+  frequency: "Daily"
+  operation: ""
+  size: "9.6Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/FARSHE"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60FARSHE-BLBT02-S0-3882m-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "FARSHE"
+  variable: "Salinity"
+  period: "01/07-30/09/2010"
+  depth: "Surface to 3882m"
+  frequency: "Daily"
+  operation: ""
+  size: "5.8Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/FARSHE"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60FARSHE-BLBT02-T0-3882m-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "FARSHE"
+  variable: "Temperature"
+  period: "01/07-30/09/2010"
+  depth: "Surface to 3882m"
+  frequency: "Daily"
+  operation: ""
+  size: "8.7Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/FARSHE"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
 - name: eNATL60FARSHE-BLBT02-SSU-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLBT02"
