@@ -1,3 +1,191 @@
+
+- name: eNATL60LIONb-BLBT02-flxdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Air-Sea fluxes"
+  period: "01/01-29/10/2010"
+  depth: ""
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "56Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60LIONb-BLBT02-SSUdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Zonal Velocity"
+  period: "01/01-29/10/2010"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "29Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60LIONb-BLBT02-SSVdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Meridional Velocity"
+  period: "01/01-29/10/2010"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "29Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60LIONb-BLBT02-T0-200degrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Temperature"
+  period: "01/01-29/10/2010"
+  depth: "Surface to 200 levels"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "993Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60LIONb-BLBT02-S0-200degrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Salinity"
+  period: "01/01-29/10/2010"
+  depth: "Surface to 200 levels"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "872Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60LABs-BLBT02-flxdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LABs"
+  variable: "Air-Sea fluxes"
+  period: "01/01-29/10/2010"
+  depth: ""
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "52Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LABs"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60LABs-BLBT02-SSUdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LABs"
+  variable: "Zonal Velocity"
+  period: "01/01-29/10/2010"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "25Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LABs"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60LABs-BLBT02-SSVdegrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LABs"
+  variable: "Meridional Velocity"
+  period: "01/01-29/10/2010"
+  depth: "Surface"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "25Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LABs"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60LABs-BLBT02-T0-200degrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LABs"
+  variable: "Temperature"
+  period: "01/01-29/10/2010"
+  depth: "Surface to 200 levels"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "1.3Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LABs"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60LABs-BLBT02-S0-200degrad3-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LABs"
+  variable: "Salinity"
+  period: "01/01-29/10/2010"
+  depth: "Surface to 200 levels"
+  frequency: "Daily"
+  operation: "Spatial degradation by a factor 3"
+  size: "1.1Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LABs"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60LIONb-BLBT02-T0-200-1d
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Temperature"
+  period: "01/01-29/10/2010"
+  depth: "Surface to 200 levels"
+  frequency: "Daily"
+  operation: ""
+  size: "15Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1d/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
 - name: eNATL60FARSHE-BLBT02-U0-3882m-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLBT02"
