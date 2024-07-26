@@ -1,4 +1,54 @@
-
+- name: eNATL60-BLBT02-W61m-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "eNATL"
+  variable: "Vertical Velocity"
+  period: "01/07/2009-30/06/2010"
+  depth: "61m"
+  frequency: "Hourly"
+  operation: ""
+  size: "599Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/eNATL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60-BLBT02-W60m-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "eNATL"
+  variable: "Vertical Velocity"
+  period: "01/07/2009-30/06/2010"
+  depth: "60m"
+  frequency: "Hourly"
+  operation: ""
+  size: "601Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/eNATL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60-BLBT02-SSH-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "eNATL"
+  variable: "Sea Surface Height"
+  period: "01/07/2009-30/06/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "600Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/eNATL"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: eNATL60LIONb-BLBT02-flxdegrad3-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLBT02"
