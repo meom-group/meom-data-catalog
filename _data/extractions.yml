@@ -574,7 +574,7 @@
   path_gricad:
   path_jeanzay:
   path_irene:
-  url_opendap:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1d/eNATL60/catalog.html"
 
 - name: eNATL60-BLBT02-S600m-1h
   configuration: "eNATL60"
@@ -608,7 +608,7 @@
   path_gricad:
   path_jeanzay:
   path_irene:
-  url_opendap:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1d/eNATL60/catalog.html"
 
 - name: eNATL60-BLBT02-T600m-1h
   configuration: "eNATL60"
@@ -693,7 +693,7 @@
   path_gricad:
   path_jeanzay:
   path_irene:
-  url_opendap:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1d/eNATL60/catalog.html"
   
 - name: eNATL60-BLBT02-SSH-1h
   configuration: "eNATL60"
@@ -1662,7 +1662,7 @@
   path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
   path_jeanzay:
   path_irene:
-  url_opendap:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL60/catalog.html"
   
 - name: eNATL60-BLB002-SSV-1h
   configuration: "eNATL60"
@@ -1679,7 +1679,7 @@
   path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
   path_jeanzay:
   path_irene:
-  url_opendap:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL60/catalog.html"
   
 - name: eNATL60-BLB002-SSU-1h
   configuration: "eNATL60"
@@ -1696,7 +1696,7 @@
   path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
   path_jeanzay:
   path_irene:
-  url_opendap:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL60/catalog.html"
   
 - name: eNATL60-BLB002-MLD-1h
   configuration: "eNATL60"
