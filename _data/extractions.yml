@@ -1,3 +1,88 @@
+- name: eNATL60SICIL-BLBT02-W-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "SICIL"
+  variable: "Vertical Velocity"
+  period: "01/07/2009-30/09/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/SICIL"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SICIL/catalog.html"
+
+- name: eNATL60SICIL-BLBT02-U-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "SICIL"
+  variable: "Zonal Velocity"
+  period: "01/07/2009-30/09/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/SICIL"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SICIL/catalog.html"
+
+- name: eNATL60SICIL-BLBT02-V-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "SICIL"
+  variable: "Meridional Velocity"
+  period: "01/07/2009-30/09/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/SICIL"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SICIL/catalog.html"
+
+- name: eNATL60SICIL-BLBT02-T-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "SICIL"
+  variable: "Temperature"
+  period: "01/07/2009-30/09/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/SICIL"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SICIL/catalog.html"
+
+- name: eNATL60SICIL-BLBT02-S-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "SICIL"
+  variable: "Salinity"
+  period: "01/07/2009-30/09/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/SICIL"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SICIL"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SICIL/catalog.html"
+
 - name: eNATL60LABs-BLBT02-flx-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLBT02"
