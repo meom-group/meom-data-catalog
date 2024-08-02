@@ -1,3 +1,88 @@
+- name: eNATL60LIONb-BLBT02-flxdegrad3-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Air-Sea fluxes"
+  period: "01/01-29/10/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: "Spatial degradation by a factor 3"
+  size: "1.2Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60LIONb-BLBT02-SSUdegrad3-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Zonal Velocity"
+  period: "01/01-29/10/2010"
+  depth: "Surface"
+  frequency: "Hourly"
+  operation: "Spatial degradation by a factor 3"
+  size: "208Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60LIONb-BLBT02-SSVdegrad3-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Meridional Velocity"
+  period: "01/01-29/10/2010"
+  depth: "Surface"
+  frequency: "Hourly"
+  operation: "Spatial degradation by a factor 3"
+  size: "208Mb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+
+- name: eNATL60LIONb-BLBT02-T0-200degrad3-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Temperature"
+  period: "01/01-29/10/2010"
+  depth: "Surface to 200 levels"
+  frequency: "Hourly"
+  operation: "Spatial degradation by a factor 3"
+  size: "38Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: eNATL60LIONb-BLBT02-S0-200degrad3-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "LIONb"
+  variable: "Salinity"
+  period: "01/01-29/10/2010"
+  depth: "Surface to 200 levels"
+  frequency: "Hourly"
+  operation: "Spatial degradation by a factor 3"
+  size: "38Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/LIONb"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: eNATL60OSMO-BLBT02-SSdens-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLBT02"
