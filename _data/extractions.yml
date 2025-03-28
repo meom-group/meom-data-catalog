@@ -831,6 +831,40 @@
   path_irene:
   url_opendap:
   
+- name: eNATL60noMED-BLBT02-Ubottom-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "noMED"
+  variable: "Bottom Zonal Velocity"
+  period: "01/07/2009-30/06/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: "Spatial degradation by a factor 3"
+  size: "Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/noMED"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+    
+- name: eNATL60noMED-BLBT02-Vbottom-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "noMED"
+  variable: "Bottom Meridional Velocity"
+  period: "01/07/2009-30/06/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: "Spatial degradation by a factor 3"
+  size: "Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/noMED"
+  path_cal1: 
+  path_gricad:
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+    
 - name: eNATL60LIONb-BLBT02-flxdegrad3-1d
   configuration: "eNATL60"
   simulation: "eNATL60-BLBT02"
