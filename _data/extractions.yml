@@ -840,7 +840,7 @@
   depth: ""
   frequency: "Hourly"
   operation: "Spatial degradation by a factor 3"
-  size: "Gb"
+  size: "90Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/noMED"
   path_cal1: 
   path_gricad:
@@ -857,7 +857,7 @@
   depth: ""
   frequency: "Hourly"
   operation: "Spatial degradation by a factor 3"
-  size: "Gb"
+  size: "94Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/noMED"
   path_cal1: 
   path_gricad:
