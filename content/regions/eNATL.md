@@ -4,7 +4,7 @@ nav_order: 4
 title: eNATL
 ---
 
-![](images/bathy_eNATL60.png)
+![](https://github.com/meom-group/meom-data-catalog/blob/main/images/region_eNATL.png)
 
 All the extractions that span the region eNATL are listed below :
 
