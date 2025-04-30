@@ -6,7 +6,7 @@
                 <h2 class="card-title h3">{{ c.name }}</h2>
                 {{ c.description }}
                 {% if c.pic %}
-                {% include figure.html img="{{ c.pic }}" alt="workshop scene" caption="eNATL region" width="75%" %}
+                {% include figure.html img='{{ c.pic }}' alt="workshop scene" caption="eNATL region" width="75%" %}
                 {% endif %}
                 <ul>
                     {% if c.path_adastra %} 
