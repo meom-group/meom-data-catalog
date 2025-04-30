@@ -24,4 +24,4 @@
   path_jeanzay:
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-I/catalog.html"
-  pic: "plots/bathy_eNATL60.png"
+  pic: "https://github.com/meom-group/meom-data-catalog/blob/main/plots/bathy_eNATL60.png"
