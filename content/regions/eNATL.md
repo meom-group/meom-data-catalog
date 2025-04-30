@@ -4,7 +4,7 @@ nav_order: 4
 title: eNATL
 ---
 
-![](../../plots/bathy_eNATL60.png)
+![](images/bathy_eNATL60.png)
 
 All the extractions that span the region eNATL are listed below :
 
