@@ -6,7 +6,9 @@
                 <h2 class="card-title h3">{{ c.name }}</h2>
                 {{ c.description }}
                 {% if c.pic %}
-                <img src="{{ c.pic }}" alt="Config picture">
+                <figure class="figure d-block text-center p-3">
+                    <img src="{{ c.pic }}" alt="Config picture">
+                </figure>
                 {% endif %}
                 <ul>
                     {% if c.path_adastra %} 
