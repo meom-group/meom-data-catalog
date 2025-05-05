@@ -4,6 +4,7 @@ nav_order: 4
 title: eNATL
 ---
 
+eNATL is the extended North Atlantic region : 
 
 {% include figure.html img="region_eNATL.png" alt="workshop scene" caption="eNATL region" width="75%" %}
 
