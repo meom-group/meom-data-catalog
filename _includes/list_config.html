@@ -5,9 +5,6 @@
             <div class="card-body">
                 <h2 class="card-title h3">{{ c.name }}</h2>
                 {{ c.description }}
-                {% if c.pic %}
-                {% include figure.html img='{{ c.pic }}' alt="workshop scene" caption="eNATL region" width="75%" %}
-                {% endif %}
                 <ul>
                     {% if c.path_adastra %} 
                     <li>Available on Adastra at : <code class="language-plaintext highlighter-rouge">{{ c.path_adastra }}</code> </li>

@@ -4,6 +4,8 @@ nav_order: 2
 title: eNATL60-BLB002
 ---
 
+{% include figure.html img="bathy_eNATL60.png" alt="workshop scene" caption="eNATL region" width="75%" %}
+
 eNATL60-BLB002 is the reference experiment WITHOUT explicit tidal forcing of eNATL60 configuration, more informations [here](https://github.com/ocean-next/eNATL60/blob/master/02_experiment-setup.md)
 
 All the extractions from simulation eNATL60-BLB002 are listed below :
