@@ -6,7 +6,7 @@ title: GULF
 
 The region GULF spans the area 32°-44°N x 53.7°-66.3°W
 
-{% include figure.html img="region_GULF.png" alt="workshop scene" caption="eNATL region" width="75%" %}
+{% include figure.html img="region_GULF.png" alt="workshop scene" caption="GULF region" width="75%" %}
 
 All the grids available are listed below :
 
