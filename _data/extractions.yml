@@ -1,3 +1,38 @@
+- name: eNATL60ACO-BLB002-SSH-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "ACO"
+  variable: "Sea Surface Height"
+  period: "01/07/2009-30/06/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "28Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/ACO"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/ACO"
+  path_gricad: "/mnt/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/ACO"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/ACO/catalog.html"
+  
+
+- name: eNATL60ACO-BLBT02-SSH-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "ACO"
+  variable: "Sea Surface Height"
+  period: "01/07/2009-30/06/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "28Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/ACO"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/ACO"
+  path_gricad: "/mnt/summer/meom/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/ACO"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/ACO/catalog.html"
+  
 - name: eNATL60LIONb-BLBT02-flxdegrad3-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLBT02"
