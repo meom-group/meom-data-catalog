@@ -19,7 +19,8 @@
   configuration: "ORCA025.L75"
   simulation: "ORCA025.L75-OCCITENS.001"
   region: "GLOBAL"
-  variable: "Sea Surface Height"
+  variable: 
+            - "Sea Surface Height"
             - "Temperature"
   period: "01/01/1960-31/12/2005"
   depth: ""
