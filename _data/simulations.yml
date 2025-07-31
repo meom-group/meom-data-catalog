@@ -2,3 +2,5 @@
   configuration: "eNATL60"
 - name: eNATL60-BLB002
   configuration: "eNATL60"
+- name: NATL60-CJM165
+  configuration: "NATL60"
