@@ -4,7 +4,7 @@ nav_order: 4
 title: eORCA025.L75
 ---
 
-eORCA025.L75 is a global configuration at 1/4° with 75 vertical levels
+ORCA025.L75 is a global configuration at 1/4° with 75 vertical levels
 
 The grid files for this config can be found :
 
@@ -20,6 +20,6 @@ The grid files for this config can be found :
         </div>
 </div>
 
-All the simulations performed with eORCA025.L75 configuration are listed below :
+All the simulations performed with ORCA025.L75 configuration are listed below :
 
-{% include list_config_eORCA025.L75.html %}
+{% include list_config_ORCA025.L75.html %}

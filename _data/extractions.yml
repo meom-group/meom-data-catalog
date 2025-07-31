@@ -1,8 +1,25 @@
+- name: ORCA025.L75-OCCITENS.001-1m-T
+  configuration: "ORCA025.L75"
+  simulation: "ORCA025.L75-OCCITENS.001"
+  region: "GLOBAL"
+  variable: "Temperature"
+  period: "01/01/1960-31/12/2005"
+  depth: ""
+  frequency: "Monthly"
+  operation: ""
+  size: "184Gb"
+  path_adastra: ""
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/ORCA025.L75/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m"
+  path_gricad: "/mnt/summer/meom/MODEL_SET/ORCA025.L75/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/OCCIPUT/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m/catalog.html"
+  
 - name: ORCA025.L75-OCCITENS.001-1m-SSH
   configuration: "ORCA025.L75"
   simulation: "ORCA025.L75-OCCITENS.001"
   region: "GLOBAL"
-  variable: "Sea Surface Height"
+  variable: "Sea Surface Height","Temperature"
   period: "01/01/1960-31/12/2005"
   depth: ""
   frequency: "Monthly"
