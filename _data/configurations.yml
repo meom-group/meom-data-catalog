@@ -7,6 +7,15 @@
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eORCA05.L121/eORCA05.L121-I/catalog.html"
 
+- name: eORCA05.L121
+  description: "A global configuration at 1/2° extended to the South (ice cavities) with 121 vertical levels (better for ice cavities and overflows)"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eORCA05.L121/eORCA05.L121-I.tar"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eORCA05.L121/eORCA05.L121-I"
+  path_gricad: "/summer/meom/MODEL_SET/eORCA05.L121/eORCA05.L121-I"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eORCA05.L121/eORCA05.L121-I/catalog.html"
+
 - name: eORCA36.L121
   description: "A global configuration at 1/36° extended to the South (ice cavities) with 121 vertical levels (better for ice cavities and overflows)"
   path_adastra: 
@@ -17,7 +26,7 @@
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eORCA36.L121/eORCA36.L121-I/catalog.html"
 
 - name: eNATL60
-  description: "A regional configuration at 1/60° over the North Atlantic from °N to °S, inclunding Mediterranean Sea"
+  description: "A regional configuration at 1/60° over the North Atlantic from °N to °S, including Mediterranean Sea"
   path_adastra: 
   path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-I"
   path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-I"
