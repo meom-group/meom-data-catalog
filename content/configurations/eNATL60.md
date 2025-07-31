@@ -19,6 +19,7 @@ The grid files for this config can be found :
                     <li> on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/gricad.html">GRICAD</a> at : <code class="language-plaintext highlighter-rouge">/summer/meom/MODEL_SET/eNATL60/eNATL60-I</code> </li>
                     <li><a href="https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-I/catalog.html">Download</a> directly on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/opendap.html">opendap</a> </li>
             </ul>
+            </div>
         </div>
 </div>
 
