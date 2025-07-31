@@ -1,0 +1,12 @@
+---
+section_id: Configurations
+nav_order: 5
+title: eORCA05.L121
+---
+
+eORCA05.L121 is a global configuration at 1/2° extended to the South (ice cavities) with 121 vertical levels (better for ice cavities and overflows)
+
+path_adastra: "/lus/store/CT1/hmg2840/aalbert/eORCA05.L121/eORCA05.L121-I.tar"
+path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eORCA05.L121/eORCA05.L121-I"
+path_gricad: "/summer/meom/MODEL_SET/eORCA05.L121/eORCA05.L121-I"
+url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eORCA05.L121/eORCA05.L121-I/catalog.html"
