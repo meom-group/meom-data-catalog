@@ -8,6 +8,8 @@ eNATL60 is a regional configuration at 1/60° over the North Atlantic from 6° t
 
 {% include figure.html img="bathy_eNATL60.png" alt="workshop scene" caption="" width="75%" %}
 
+<div class="card mb-3{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}">
+<div class="card-body">
 <div class="card-text">
 path_adastra: 
 path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-I"
@@ -15,6 +17,8 @@ path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-I"
 path_jeanzay:
 path_irene:
 url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-I/catalog.html"
+</div>
+</div>
 </div>
 
 All the simulations performed with this eNATL60 configuration are listed below :
