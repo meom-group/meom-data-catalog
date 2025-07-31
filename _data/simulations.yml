@@ -1,0 +1,4 @@
+- name: eNATL60-BLBT02
+  configuration: "eNATL60"
+- name: eNATL60-BLB002
+  configuration: "eNATL60"
