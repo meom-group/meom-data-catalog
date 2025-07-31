@@ -1,5 +1,5 @@
 ---
-section_id: Configurations
+section: Configurations
 nav_order: 5
 title: eORCA05.L121
 ---
