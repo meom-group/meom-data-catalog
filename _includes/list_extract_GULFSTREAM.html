@@ -10,7 +10,7 @@
                     <li> Configuration : <a href="https://meom-group.github.io/meom-data-catalog/content/configurations/{{ c.configuration }}.html">{{ c.configuration }}</a> </li>
                     <li> Simulation : <a href="https://meom-group.github.io/meom-data-catalog/content/simulations/{{ c.simulation }}.html">{{ c.simulation }}</a> </li>
                     <li> Region : <a href="https://meom-group.github.io/meom-data-catalog/content/regions/{{ c.region }}.html">{{ c.region }}</a> </li>
-                    <li> Variable(s): <a href="https://meom-group.github.io/meom-data-catalog/content/variables/{{ c.variable }}.html">{{ c.variable }}</a> </li>
+                    <li> Variable(s): {% for v in c.variable %} <a href="https://meom-group.github.io/meom-data-catalog/content/variables/{{ v }}.html">{{ v }}</a> {% endfor %} </li>
                     {% if c.depth %} 
                     <li> Depth:  <code class="language-plaintext highlighter-rouge">{{ c.depth }}</code> </li>
                     {% endif %}
