@@ -4,4 +4,6 @@
   configuration: "eNATL60"
 - name: NATL60-CJM165
   configuration: "NATL60"
-  
+- name: ORCA025.L75
+  configuration: "ORCA025.L75-OCCITENS.001"
+ 

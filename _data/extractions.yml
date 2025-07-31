@@ -1,19 +1,19 @@
-- name: eNATL60ACO-BLB002-SSH-1h
-  configuration: "eNATL60"
-  simulation: "eNATL60-BLB002"
-  region: "ACO"
+- name: ORCA025.L75-OCCITENS.001-1m-SSH
+  configuration: "ORCA025.L75"
+  simulation: "ORCA025.L75-OCCITENS.001"
+  region: "GLOBAL"
   variable: "Sea Surface Height"
-  period: "01/07/2009-30/06/2010"
+  period: "01/01/1960-31/12/2005"
   depth: ""
-  frequency: "Hourly"
+  frequency: "Monthly"
   operation: ""
-  size: "28Gb"
-  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/ACO"
-  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/ACO"
-  path_gricad: "/mnt/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/ACO"
+  size: "184Gb"
+  path_adastra: ""
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/ORCA025.L75/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m"
+  path_gricad: "/mnt/summer/meom/MODEL_SET/ORCA025.L75/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m"
   path_jeanzay:
   path_irene:
-  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/ACO/catalog.html"
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/OCCIPUT/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m/catalog.html"
   
 - name: eNATL60ACO-BLB002-SSH-1h
   configuration: "eNATL60"
