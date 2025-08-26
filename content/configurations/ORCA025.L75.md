@@ -21,6 +21,6 @@ The grid files for this config can be found :
         </div>
 </div>
 
-All the simulations performed with this eNATL60 configuration are listed below :
+All the simulations performed with this ORCA025.L75 configuration are listed below :
 
 {% include list_config_ORCA025.L75.html %}
