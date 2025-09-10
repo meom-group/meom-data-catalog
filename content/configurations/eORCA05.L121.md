@@ -22,6 +22,6 @@ The grid files for this config can be found :
         </div>
 </div>
 
-All the simulations performed with eORCA36.L121 configuration are listed below :
+All the simulations performed with eORCA05.L121 configuration are listed below :
 
 {% include list_config_eORCA05.L121.html %}
