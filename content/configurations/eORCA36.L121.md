@@ -6,7 +6,7 @@ title: eORCA36.L121
 
 eORCA36.L121 is a global configuration at 1/36° extended to the South (ice cavities) with 121 vertical levels (better for ice cavities and overflows)
 
-{% include figure.html img="eorca36.png" alt="workshop scene" caption="" width="75%" %}
+{% include figure.html img="eorca36.png" alt="workshop scene" caption="" width="50%" %}
 
 The grid files for this config can be found :
 
