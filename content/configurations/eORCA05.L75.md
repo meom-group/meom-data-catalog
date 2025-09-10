@@ -4,7 +4,7 @@ nav_order: 6
 title: eORCA05.L75
 ---
 
-eORCA05.L75 is a global configuration at 1/2° extended to the South (ice cavities) with 75
+eORCA05.L75 is a global configuration at 1/2° extended to the South (ice cavities) with 75 vertical levels
 
 The grid files for this config can be found :
 
