@@ -1901,11 +1901,11 @@
   operation: ""
   size: "598Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/eNATL"
-  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
-  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL"
   path_jeanzay:
   path_irene:
-  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL60/catalog.html"
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL/all_nc/catalog.html"
   
 - name: eNATL60-BLB002-SSV-1h
   configuration: "eNATL60"
@@ -1918,11 +1918,11 @@
   operation: ""
   size: "632Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/eNATL"
-  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
-  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL"
   path_jeanzay:
   path_irene:
-  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL60/catalog.html"
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL/all_nc/catalog.html"
   
 - name: eNATL60-BLB002-SSU-1h
   configuration: "eNATL60"
@@ -1935,11 +1935,11 @@
   operation: ""
   size: "630Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/eNATL"
-  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
-  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL60"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL"
   path_jeanzay:
   path_irene:
-  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL60/catalog.html"
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL/all_nc/catalog.html"
   
 - name: eNATL60-BLB002-MLD-1h
   configuration: "eNATL60"
@@ -1952,11 +1952,11 @@
   operation: ""
   size: "474Gb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/eNATL"
-  path_cal1: 
-  path_gricad:
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLB002/1h/eNATL"
   path_jeanzay:
   path_irene:
-  url_opendap:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL/all_nc/catalog.html"
   
 - name: eNATL60-BLB002-SST-1h
   configuration: "eNATL60"
