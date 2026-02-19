@@ -2336,6 +2336,7 @@
   configuration: "NATL60"
   simulation: "NATL60-CJM165"
   region: "NATL"
+  variable: 
             - "Sea-Surface-Height"
             - "Temperature"
             - "Salinity"
