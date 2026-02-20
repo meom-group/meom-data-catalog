@@ -1,3 +1,28 @@
+- name: MEDWEST60-GSL19.ens01-1h
+  configuration: "MEDWEST60"
+  simulation: "MEDWEST60-GSL19.ens01"
+  region: "MEDWEST"
+  variable: 
+            - "Sea-Surface-Height"
+            - "Temperature"
+            - "Salinity"
+            - "Mixed-Layer-Depth"
+            - "Sea-Air-Fluxes"
+            - "Bottom-Pressure"
+            - "Meridional-Velocity"
+            - "Zonal-Velocity"
+  period: "07/04/2010-05/06/2010"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "20Tb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/MEDWEST60/MEDWEST60-GSL19-S/ens01/1h/flxT"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/MEDWEST60-GSL19/MEDWEST60-GSL19-S/ens01/1h"
+  path_gricad: "/summer/DATA_MEOM/MODEL_SET/MEDWEST60-GSL19/MEDWEST60-GSL19-S/ens01/1h"
+  path_jeanzay:
+  path_irene:
+  url_opendap: ""
+  
 - name: eORCA025.L75-IMHOTEP.SC-1d
   configuration: "eORCA025.L75"
   simulation: "eORCA025.L75-IMHOTEP.SC"
@@ -18,7 +43,7 @@
   size: "24Tb"
   path_adastra: "/lus/store/CT1/hmg2840/aalbert/eORCA025.L75/eORCA025.L75-IMHOTEP.SC-S/1d/1980-concat"
   path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/IMHOTEP/eORCA025.L75-IMHOTEP.SC-S/1d"
-  path_gricad: "summer/meom/MODEL_SET/IMHOTEP/eORCA025.L75-IMHOTEP.SC-S/1d"
+  path_gricad: "/summer/meom/MODEL_SET/IMHOTEP/eORCA025.L75-IMHOTEP.SC-S/1d"
   path_jeanzay:
   path_irene:
   url_opendap: ""
