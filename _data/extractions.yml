@@ -2363,7 +2363,44 @@
   path_jeanzay:
   path_irene:
   url_opendap:
-
+  
+- name: NATL60-CJM165-SSH-1h
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "NATL"
+  variable: "Sea-Surface-Height"
+  period: "14/06/2012-01/10/2013"
+  depth: ""
+  frequency: "Hourly"
+  operation: 
+  size: "425Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1h/SSH"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/NATL60/NATL60-CJM165-S/1h/SSH"
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
+- name: NATL60-CJM165-gridT-1h
+  configuration: "NATL60"
+  simulation: "NATL60-CJM165"
+  region: "NATL"
+  variable: 
+    - "Sea-Surface-Height"
+    - "Temperature"
+    - "Salinity"
+  period: "14/06/2012-01/10/2013"
+  depth: "Surface"
+  frequency: "Hourly"
+  operation: 
+  size: "1.2Tb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/NATL60/NATL60-CJM165-S/1h/gridT"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/NATL60/NATL60-CJM165-S/1h/gridT"
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  
 - name: NATL60-CJM165-KET-1d
   configuration: "NATL60"
   simulation: "NATL60-CJM165"
