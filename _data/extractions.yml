@@ -1,4 +1,28 @@
- 
+- name: eORCA025.L75-IMHOTEP.SC-1d
+  configuration: "eORCA025.L75"
+  simulation: "eORCA025.L75-IMHOTEP.SC"
+  region: "GLOBAL"
+  variable: 
+            - "Sea-Surface-Height"
+            - "Temperature"
+            - "Salinity"
+            - "Mixed-Layer-Depth"
+            - "Sea-Air-Fluxes"
+            - "Bottom-Pressure"
+            - "Meridional-Velocity"
+            - "Zonal-Velocity"
+  period: "01/01/1980-31/12/2018"
+  depth: ""
+  frequency: "Daily"
+  operation: ""
+  size: "24Tb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eORCA025.L75/eORCA025.L75-IMHOTEP.SC-S/1d/1980-concat"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/IMHOTEP/eORCA025.L75-IMHOTEP.SC-S/1d"
+  path_gricad: "summer/meom/MODEL_SET/IMHOTEP/eORCA025.L75-IMHOTEP.SC-S/1d"
+  path_jeanzay:
+  path_irene:
+  url_opendap: ""
+   
 - name: ORCA025.L75-OCCITENS.001-1m-gridT
   configuration: "ORCA025.L75"
   simulation: "ORCA025.L75-OCCITENS.001"
@@ -14,7 +38,7 @@
   size: "184Gb"
   path_adastra: ""
   path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/ORCA025.L75/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m"
-  path_gricad: "/mnt/summer/meom/MODEL_SET/ORCA025.L75/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m"
+  path_gricad: "/summer/meom/MODEL_SET/ORCA025.L75/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m"
   path_jeanzay:
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/OCCIPUT/ORCA025.L75-OCCITENS/ORCA025.L75-OCCITENS.001-S/1m/catalog.html"
