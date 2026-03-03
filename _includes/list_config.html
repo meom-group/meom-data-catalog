@@ -23,7 +23,10 @@
                     {% endif %}
                     {% if c.url_opendap %} 
                     <li>Download directly on <a href="{{c.url_opendap }}">opendap</a> </li>
-                    {% endif %}               
+                    {% endif %}           
+                    {% if c.doi %} 
+                    <li> DOI : <a href="{{c.doi}}">{{c.doi}}</a> </li>
+                    {% endif %}    
                 </ul>
             </div>
         </div>

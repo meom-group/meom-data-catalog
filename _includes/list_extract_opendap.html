@@ -38,6 +38,9 @@
                     {% endif %}
                     {% if c.url_gricad %} 
                     <li>Also available on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/gricad.html">GRICAD</a> at : <code class="language-plaintext highlighter-rouge">{{ c.path_gricad }}</code>  </li>
+                    {% endif %}    
+                    {% if c.doi %} 
+                    <li> DOI : <a href="{{c.doi}}">{{c.doi}}</a> </li>
                     {% endif %}               
                 </ul>
             </div>

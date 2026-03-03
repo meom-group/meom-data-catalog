@@ -22,7 +22,10 @@
                     {% endif %}
                     {% if c.url_cal1 %} 
                     <li> Also available on <a href="https://meom-group.github.io/meom-data-catalog/content/platforms/cal1.html">cal1</a>  at : <code class="language-plaintext highlighter-rouge">{{ c.path_cal1 }}</code> </li>
-                    {% endif %}               
+                    {% endif %}     
+                    {% if c.doi %} 
+                    <li> DOI : <a href="{{c.doi}}">{{c.doi}}</a> </li>
+                    {% endif %}              
                 </ul>
             </div>
         </div>

@@ -986,6 +986,7 @@
   path_jeanzay:
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/eNATL/all_nc/catalog.html"
+  doi: "doi.org/10.12770/dd5d496a-8b55-4eac-b989-f50b44bfc4ab"
 
 - name: eNATL60-BLBT02-Ubottom-1h
   configuration: "eNATL60"
