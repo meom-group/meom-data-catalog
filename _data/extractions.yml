@@ -409,6 +409,23 @@
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SICIL/catalog.html"
 
+- name: eNATL60SIDRA-BLBT02-T-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLBT02"
+  region: "SIDRA"
+  variable: "Temperature"
+  period: "y2009m07d01-y2010m06d31"
+  depth: ""
+  frequency: "Hourly"
+  operation: ""
+  size: "101Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLBT02-S/1h/SIDRA"
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SIDRA"
+  path_gricad: "/summer/meom/MODEL_SET/eNATL60/eNATL60-BLBT02/1h/SIDRA"
+  path_jeanzay:
+  path_irene:
+  url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/SIDRA/catalog.html"
+
 - name: eNATL60SIDRA-BLBT02-SSH-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLBT02"
