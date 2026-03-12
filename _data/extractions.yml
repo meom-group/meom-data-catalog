@@ -935,6 +935,7 @@
   path_jeanzay:
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/eNATL/all_nc/catalog.html"
+  doi: "https://doi.org/10.12770/dd5d496a-8b55-4eac-b989-f50b44bfc4ab"
 
 - name: eNATL60-BLBT02-SSU-1h
   configuration: "eNATL60"
@@ -952,6 +953,7 @@
   path_jeanzay:
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/eNATL/all_nc/catalog.html"
+  doi: "https://doi.org/10.12770/dd5d496a-8b55-4eac-b989-f50b44bfc4ab"
 
 - name: eNATL60-BLBT02-SSV-1h
   configuration: "eNATL60"
@@ -969,6 +971,7 @@
   path_jeanzay:
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLBT02/1h/eNATL/all_nc/catalog.html"
+  doi: "https://doi.org/10.12770/dd5d496a-8b55-4eac-b989-f50b44bfc4ab"
 
 - name: eNATL60-BLBT02-SSH-1h
   configuration: "eNATL60"
@@ -2007,6 +2010,7 @@
   path_jeanzay:
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL/all_nc/catalog.html"
+  doi: "https://doi.org/10.12770/dd5d496a-8b55-4eac-b989-f50b44bfc4ab"
   
 - name: eNATL60-BLB002-SSV-1h
   configuration: "eNATL60"
@@ -2024,6 +2028,7 @@
   path_jeanzay:
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL/all_nc/catalog.html"
+  doi: "https://doi.org/10.12770/dd5d496a-8b55-4eac-b989-f50b44bfc4ab"
   
 - name: eNATL60-BLB002-SSU-1h
   configuration: "eNATL60"
@@ -2041,6 +2046,7 @@
   path_jeanzay:
   path_irene:
   url_opendap: "https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/catalog/meomopendap/extract/MEOM/eNATL60/eNATL60-BLB002/1h/eNATL/all_nc/catalog.html"
+  doi: "https://doi.org/10.12770/dd5d496a-8b55-4eac-b989-f50b44bfc4ab"
   
 - name: eNATL60-BLB002-MLD-1h
   configuration: "eNATL60"
@@ -2075,6 +2081,7 @@
   path_jeanzay:
   path_irene:
   url_opendap:
+  doi: "https://doi.org/10.12770/dd5d496a-8b55-4eac-b989-f50b44bfc4ab"
 
 - name: eNATL60-BLB002-V0-10mmean-1d
   configuration: "eNATL60"
