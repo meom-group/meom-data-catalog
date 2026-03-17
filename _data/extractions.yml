@@ -48,6 +48,24 @@
   path_irene:
   url_opendap: ""
    
+- name: ORCA025.L75-OCCITENS.AMOC
+  configuration: "ORCA025.L75"
+  simulation: "ORCA025.L75-OCCITENS"
+  region: "GLOBAL"
+  variable: "Atlantic-Meridional-Overturning-Circulation"
+  period: "01/01/1960-31/12/2015"
+  depth: ""
+  frequency: "Yearly"
+  operation: ""
+  size: "546Mb"
+  path_adastra: ""
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_gricad: "/summer/meom/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_jeanzay:
+  path_irene:
+  url_opendap: 
+  doi: "https://www.seanoe.org/data/01015/112651/"
+
 - name: ORCA025.L75-OCCITENS.001-1m-gridT
   configuration: "ORCA025.L75"
   simulation: "ORCA025.L75-OCCITENS.001"
