@@ -48,7 +48,7 @@
   path_irene:
   url_opendap: ""
    
-- name: ORCA025.L75-OCCITENS.AMOC
+- name: ORCA025.L75-OCCITENS-1y-AMOC
   configuration: "ORCA025.L75"
   simulation: "ORCA025.L75-OCCITENS"
   region: "GLOBAL"
@@ -66,6 +66,79 @@
   url_opendap: 
   doi: "https://www.seanoe.org/data/01015/112651/"
 
+- name: ORCA025.L75-MJM01-1y-AMOC
+  configuration: "ORCA025.L75"
+  simulation: "ORCA025.L75-MJM01"
+  region: "GLOBAL"
+  variable: "Atlantic-Meridional-Overturning-Circulation"
+  period: "0001-0327"
+  depth: ""
+  frequency: "Yearly"
+  operation: ""
+  size: "39Mb"
+  path_adastra: ""
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_gricad: "/summer/meom/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_jeanzay:
+  path_irene:
+  url_opendap: 
+  doi: "https://www.seanoe.org/data/01015/112651/"
+
+- name: ORCA025.L75-MOCCITCLIM-1y-AMOC
+  configuration: "ORCA025.L75"
+  simulation: "ORCA025.L75-MOCCITCLIM"
+  region: "GLOBAL"
+  variable: "Atlantic-Meridional-Overturning-Circulation"
+  period: "0001-0330"
+  depth: ""
+  frequency: "Yearly"
+  operation: ""
+  size: "64Mb"
+  path_adastra: ""
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_gricad: "/summer/meom/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_jeanzay:
+  path_irene:
+  url_opendap: 
+  doi: "https://www.seanoe.org/data/01015/112651/"
+
+- name: NATL025-GSL301-1y-AMOC
+  configuration: "NATL025"
+  simulation: "NATL025-GSL301"
+  region: "GLOBAL"
+  variable: "Atlantic-Meridional-Overturning-Circulation"
+  period: "1993-2012"
+  depth: ""
+  frequency: "Yearly"
+  operation: ""
+  size: "95Mb"
+  path_adastra: ""
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_gricad: "/summer/meom/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_jeanzay:
+  path_irene:
+  url_opendap: 
+  doi: "https://www.seanoe.org/data/01015/112651/"
+
+
+- name: NATL025-TCLB300-1y-AMOC
+  configuration: "NATL025"
+  simulation: "NATL025-TCLB300"
+  region: "GLOBAL"
+  variable: "Atlantic-Meridional-Overturning-Circulation"
+  period: "1994-2012"
+  depth: ""
+  frequency: "Yearly"
+  operation: ""
+  size: "18Mb"
+  path_adastra: ""
+  path_cal1: "/mnt/summer/DATA_MEOM/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_gricad: "/summer/meom/MODEL_SET/AMOC_DATASET/SHARED2026"
+  path_jeanzay:
+  path_irene:
+  url_opendap: 
+  doi: "https://www.seanoe.org/data/01015/112651/"
+  
 - name: ORCA025.L75-OCCITENS.001-1m-gridT
   configuration: "ORCA025.L75"
   simulation: "ORCA025.L75-OCCITENS.001"
