@@ -1660,6 +1660,116 @@
   path_irene:
   url_opendap:
 
+- name: eNATL60gGULF-BLB002-W-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "gGULF"
+  variable: "Vertical-Velocity"
+  period: "01/01-31/03/2010"
+  depth: "50 levs"
+  frequency: "Hourly"
+  operation: ""
+  size: "35Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/gGULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  doi: "https://doi.org/10.17882/113879"
+
+- name: eNATL60gGULF-BLB002-T-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "gGULF"
+  variable: "Temperature"
+  period: "01/01-31/03/2010"
+  depth: "50 levs"
+  frequency: "Hourly"
+  operation: ""
+  size: "24Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/gGULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  doi: "https://doi.org/10.17882/113879"
+
+  
+- name: eNATL60gGULF-BLB002-S-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "gGULF"
+  variable: "Vertical-Velocity"
+  period: "01/01-31/03/2010"
+  depth: "50 levs"
+  frequency: "Hourly"
+  operation: ""
+  size: "18Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/gGULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  doi: "https://doi.org/10.17882/113879"
+  
+- name: eNATL60gGULF-BLB002-W-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "gGULF"
+  variable: "Vertical-Velocity"
+  period: "01/07-30/09/2009"
+  depth: "50 levs"
+  frequency: "Hourly"
+  operation: ""
+  size: "35Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/gGULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  doi: "https://doi.org/10.17882/113854"
+
+- name: eNATL60gGULF-BLB002-T-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "gGULF"
+  variable: "Temperature"
+  period: "01/07-30/09/2009"
+  depth: "50 levs"
+  frequency: "Hourly"
+  operation: ""
+  size: "25Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/gGULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  doi: "https://doi.org/10.17882/113854"
+
+  
+- name: eNATL60gGULF-BLB002-S-1h
+  configuration: "eNATL60"
+  simulation: "eNATL60-BLB002"
+  region: "gGULF"
+  variable: "Vertical-Velocity"
+  period: "01/07-30/09/2009"
+  depth: "50 levs"
+  frequency: "Hourly"
+  operation: ""
+  size: "18Gb"
+  path_adastra: "/lus/store/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1h/gGULF"
+  path_cal1: 
+  path_gricad: 
+  path_jeanzay:
+  path_irene:
+  url_opendap:
+  doi: "https://doi.org/10.17882/113854"
+  
 - name: eNATL60SICIL-BLB002-U-1h
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
