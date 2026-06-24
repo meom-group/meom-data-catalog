@@ -1715,17 +1715,17 @@
   url_opendap:
   doi: 
   
-- name: eNATL60gGULF-BLB002-W-1h-50levs-winter
+- name: eNATL60gGULF-BLB002-W-1d-50levs-winter
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
   region: "gGULF"
   variable: "Vertical-Velocity"
   period: "01/01-31/03/2010"
   depth: "50 levs"
-  frequency: "Hourly"
+  frequency: "Daily"
   operation: ""
   size: "35Gb"
-  path_adastra: 
+  path_adastra: "/lus/work/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/gGULF"
   path_cal1: 
   path_gricad: 
   path_jeanzay:
@@ -1733,17 +1733,17 @@
   url_opendap:
   doi: "https://doi.org/10.17882/113879"
 
-- name: eNATL60gGULF-BLB002-T-1h-50levs-winter
+- name: eNATL60gGULF-BLB002-T-1d-50levs-winter
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
   region: "gGULF"
   variable: "Temperature"
   period: "01/01-31/03/2010"
   depth: "50 levs"
-  frequency: "Hourly"
+  frequency: "Daily"
   operation: ""
   size: "24Gb"
-  path_adastra: 
+  path_adastra: "/lus/work/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/gGULF"
   path_cal1: 
   path_gricad: 
   path_jeanzay:
@@ -1752,17 +1752,17 @@
   doi: "https://doi.org/10.17882/113879"
 
   
-- name: eNATL60gGULF-BLB002-S-1h-50levs-winter
+- name: eNATL60gGULF-BLB002-S-1d-50levs-winter
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
   region: "gGULF"
   variable: "Vertical-Velocity"
   period: "01/01-31/03/2010"
   depth: "50 levs"
-  frequency: "Hourly"
+  frequency: "Daily"
   operation: ""
   size: "18Gb"
-  path_adastra: 
+  path_adastra: "/lus/work/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/gGULF"
   path_cal1: 
   path_gricad: 
   path_jeanzay:
@@ -1770,17 +1770,17 @@
   url_opendap:
   doi: "https://doi.org/10.17882/113879"
   
-- name: eNATL60gGULF-BLB002-W-1h-50levs-summer
+- name: eNATL60gGULF-BLB002-W-1d-50levs-summer
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
   region: "gGULF"
   variable: "Vertical-Velocity"
   period: "01/07-30/09/2009"
   depth: "50 levs"
-  frequency: "Hourly"
+  frequency: "Daily"
   operation: ""
   size: "35Gb"
-  path_adastra: 
+  path_adastra: "/lus/work/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/gGULF"
   path_cal1: 
   path_gricad: 
   path_jeanzay:
@@ -1788,17 +1788,17 @@
   url_opendap:
   doi: "https://doi.org/10.17882/113854"
 
-- name: eNATL60gGULF-BLB002-T-1h-50levs-summer
+- name: eNATL60gGULF-BLB002-T-1d-50levs-summer
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
   region: "gGULF"
   variable: "Temperature"
   period: "01/07-30/09/2009"
   depth: "50 levs"
-  frequency: "Hourly"
+  frequency: "Daily"
   operation: ""
   size: "25Gb"
-  path_adastra: 
+  path_adastra: "/lus/work/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/gGULF"
   path_cal1: 
   path_gricad: 
   path_jeanzay:
@@ -1807,17 +1807,17 @@
   doi: "https://doi.org/10.17882/113854"
 
   
-- name: eNATL60gGULF-BLB002-S-1h-50levs-summer
+- name: eNATL60gGULF-BLB002-S-1d-50levs-summer
   configuration: "eNATL60"
   simulation: "eNATL60-BLB002"
   region: "gGULF"
   variable: "Vertical-Velocity"
   period: "01/07-30/09/2009"
   depth: "50 levs"
-  frequency: "Hourly"
+  frequency: "Daily"
   operation: ""
   size: "18Gb"
-  path_adastra: 
+  path_adastra: "/lus/work/CT1/hmg2840/aalbert/eNATL60/eNATL60-BLB002-S/1d/gGULF"
   path_cal1: 
   path_gricad: 
   path_jeanzay:
